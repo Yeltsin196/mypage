@@ -2636,7 +2636,7 @@ input, select, textarea {
 				display: block;
 				min-height: 100%;
 				min-width: 100%;
-				position: absolute;
+				/*position: absolute;*/
 			}
 
 		.feature:before {
